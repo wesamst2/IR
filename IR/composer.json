@@ -1,0 +1,17 @@
+{
+    "name": "wissam/ir",
+    "autoload": {
+        "psr-4": {
+            "Wissam\\Ir\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wissam Rkab",
+            "email": "Wissam.rkab@twin-social.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
